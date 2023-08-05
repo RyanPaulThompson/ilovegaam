@@ -1,0 +1,51 @@
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select, .wufoo li .wufoo-dropdown span {
+    font-style: normal;
+    font-weight: normal;
+    color: #333333 !important;
+    font-size: 100% !important;
+    padding: 10px;
+    font-size: 1.3em !important;
+}
+
+
+label.choice {
+    display: block;
+    cursor: pointer;
+    font-size: 100%;
+    line-height: 150%;
+    margin: -17px 0 0 50px;
+    padding: 0 0 5px 0;
+    color: #222;
+    width: 88%;
+}
+
+input.checkbox, input.radio {
+    display: block;
+    margin: 4px 0 0 0;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+}
+
+.wufoo label.choice {
+    font-size: 1.3em !important;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+label.choice {
+    display: block;
+    cursor: pointer;
+    font-size: 100%;
+    line-height: 150%;
+    margin: -30px 0 20px 50px;
+    padding: 0 0 5px 0;
+    color: #222;
+    width: 88%;
+}
+
+.safari label.choice {
+    margin-top: -30px;
+}
